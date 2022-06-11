@@ -71,5 +71,6 @@ $tr_ve=$ketnoi->query($lay_du_lieu);
     <?php $ketnoi->close()?>
 
     <a href="creat.php">them bai viet</a>
+<!--     la nhi -->
 </body>
 </html>
