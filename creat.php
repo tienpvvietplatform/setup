@@ -30,5 +30,6 @@ $anh=$_POST['anh'];
     ?>
     </br>
     <a href="read.php">tro lai</a>
+<!-- noi phet it thoi -->
 </body>
 </html>
